@@ -124,11 +124,5 @@ body{
     }
 }
 
-@media screen and (min-width: 1120px){
-    .avatar{
-        min-width: 30%;
-    }
-}
-
 
 
