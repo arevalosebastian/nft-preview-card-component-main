@@ -118,7 +118,7 @@ body{
     bottom: 2px;
 }
 
-@media screen and (min-width: 1000px){
+@media screen and (max-width: 1000px){
     .component{
         max-width: 20%;
     }
@@ -129,4 +129,6 @@ body{
         min-width: 30%;
     }
 }
+
+
 
