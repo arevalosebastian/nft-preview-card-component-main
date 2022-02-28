@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/myproject/assets/images/Screenshot 2022-02-28 at 03-24-32 Frontend Mentor NFT preview card component.png)
 
 
 ### Links
